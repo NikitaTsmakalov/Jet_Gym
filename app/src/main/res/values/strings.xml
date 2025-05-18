@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Jet gym</string>
+    <string name="intro_desc">We are committed to providing a safe and
+supportive environment for all users. Please be
+respectful of other and refrain from using
+offensive language or posting harmful content.</string>
 </resources>
