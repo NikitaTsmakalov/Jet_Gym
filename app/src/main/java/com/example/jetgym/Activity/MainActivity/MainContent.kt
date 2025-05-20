@@ -19,5 +19,7 @@ fun MainContent(
         .verticalScroll(rememberScrollState())){
         Spacer(Modifier.height(16.dp))
         Header()
+        SearchBar()
+        MonitoringSection()
     }
 }
